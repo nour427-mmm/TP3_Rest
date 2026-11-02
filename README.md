@@ -11,7 +11,7 @@ TP3 REST : Microservices « Calculatrice » avec Spring Boot
 - Filière : Master Professionnel (MPSRCC1)
 - Année Universitaire : 2026-2027
 - Enseignantes : Corinne Amel ZAYANI, Amal ABID
-- Étudiant(e) : **Nour Elhak Ben Mefteh**
+- Étudiant : **Nour Elhak Ben Mefteh**
 
 ### Environnement
 
